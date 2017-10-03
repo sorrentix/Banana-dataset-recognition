@@ -1,2 +1,2 @@
 # Banana-dataset-recognition
-Implementation of a neural network approach to solve the recognition of a banana dataset
+Implementation of a neural network from scratch recognize a banana dataset.
